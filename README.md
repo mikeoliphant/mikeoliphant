@@ -25,4 +25,11 @@ I am a long-time programmer with interests including audio, DSP, graphics, music
 - [kodi (xbmc)](https://github.com/xbmc/xbmc): EAC3 pass-through on devices that don't support AC3
 - [.NET nanoFramework](https://github.com/nanoframework/Home): graphics system overhaul
 
+## Older stuff
 
+- [Nostatic Software](https://store.steampowered.com/search/?developer=Nostatic%20Software): games like the "Quiet, Please!" series on XBOX, PlayStation, Nintendo, Steam
+- [Grip](https://en.wikipedia.org/wiki/Grip_(software)): Linux CD ripper and MP3 encoder
+- DigitalDJ: a mysql-based music library and player back before iTunes existed
+- [MP3.com](https://en.wikipedia.org/wiki/MP3.com): engineering work (not business-decision-making) on [My.MP3.com](https://en.wikipedia.org/wiki/MP3.com#My.MP3.com)
+- [MAME](https://www.mamedev.org/): first 16-bit audio implementation and 3D (OpenGL / 3DFX) game renderer
+- [DLG Professional](http://bbsdocumentary.com/software/COMMODORE/AMIGA/DLG/): BBS software for the Amiga computer
