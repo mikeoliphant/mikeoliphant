@@ -8,9 +8,11 @@ I am a long-time programmer with interests including audio, DSP, graphics, music
 - [cpugrad](https://github.com/mikeoliphant/cpugrad): Machine learning library focused on high performance training on CPUs
 - [AudioPlugSharp](https://github.com/mikeoliphant/AudioPlugSharp): Audio plugin framework for .NET
 - [SpiceForge](https://github.com/mikeoliphant/SpiceForge): LiveSPICE-based audio circuit editor and live simulator
-(https://github.com/mikeoliphant/Stompbox): Guitar amplification and effects pedalboard simulation
+- [Stompbox](https://github.com/mikeoliphant/Stompbox): Guitar amplification and effects pedalboard simulation
 - [ChartPlayer](https://github.com/mikeoliphant/ChartPlayer): Visual player for song charts synchronized to music recordings
-- [UILayout](https://github.com/mikeoliphant/UILayout): Cross platform user interface library for C# .NET- [Generative]- [FaustVst](https://github.com/mikeoliphant/FaustVst): Load/edit Faust dsp effects in a VST- [Stompbox](https://github.com/mikeoliphant/Generative): Generative art experiments in C# using Skia (SkiaSharp)
+- [UILayout](https://github.com/mikeoliphant/UILayout): Cross platform user interface library for C# .NET
+- [FaustVst](https://github.com/mikeoliphant/FaustVst): Load/edit Faust DSP effects in a VST
+- [Generative](https://github.com/mikeoliphant/Generative): Generative art experiments in C# using Skia (SkiaSharp)
 - [JazzStandards](https://github.com/mikeoliphant/JazzStandards): Chord data for many jazz standards
 
 ## Contributions to other projects
