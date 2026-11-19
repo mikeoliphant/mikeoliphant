@@ -20,7 +20,7 @@ I am a long-time programmer with interests including audio, DSP, graphics, music
 - [Linux kernel](https://github.com/torvalds/linux): audio driver fixes for various guitar multi-fx units
 - [dotnet/runtime](https://github.com/dotnet/runtime): c++/cli loading of assemblies in isolated load contexts
 - [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler), [NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin): Various structural and performance-related work
-- [dsharlet/LiveSPICE](https://github.com/dsharlet/LiveSPICE): VST implementation
+- [LiveSPICE](https://github.com/dsharlet/LiveSPICE): VST implementation
 - [faust](https://github.com/grame-cncm/faust): C# code generation
 - [kodi (xbmc)](https://github.com/xbmc/xbmc): EAC3 pass-through on devices that don't support AC3
 - [.NET nanoFramework](https://github.com/nanoframework/Home): graphics system overhaul
