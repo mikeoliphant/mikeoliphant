@@ -1,6 +1,6 @@
 I am a long-time programmer with interests including audio, DSP, graphics, music and cross-platform development.
 
-## Selected repositories of mine:
+## Some repositories of mine:
 
 - [neural-amp-modeler-lv2](https://github.com/mikeoliphant/neural-amp-modeler-lv2): Neural Amp Modeler LV2 plugin
 - [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio): High performance C++ library for neural amp modeler and other audio network models
