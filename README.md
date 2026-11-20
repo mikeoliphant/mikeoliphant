@@ -31,5 +31,5 @@ I am a long-time programmer with interests including audio, DSP, graphics, music
 - [Grip](https://en.wikipedia.org/wiki/Grip_(software)): Linux CD ripper and MP3 encoder
 - **DigitalDJ**: a mysql-based music library and player back before iTunes existed
 - [MP3.com](https://en.wikipedia.org/wiki/MP3.com): engineering work (not business-decision-making) on [My.MP3.com](https://en.wikipedia.org/wiki/MP3.com#My.MP3.com)
-- [MAME](https://www.mamedev.org/): first 16-bit audio implementation and 3D (OpenGL / 3DFX) game renderer
+- [MAME](https://www.mamedev.org/): first Linux 16-bit audio implementation and 3D (OpenGL / 3DFX) game renderer
 - [DLG Professional](http://bbsdocumentary.com/software/COMMODORE/AMIGA/DLG/): BBS software for the Amiga computer
