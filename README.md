@@ -1,4 +1,4 @@
-I am a long-time programmer with interests including audio, DSP, graphics, music and cross-platform development.
+I am a long-time programmer with interests including audio, DSP, graphics, music, machine learning and cross-platform development.
 
 ## Some repositories of mine:
 
